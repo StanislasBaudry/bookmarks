@@ -13,6 +13,8 @@
 - [Culture maker](http://culturemaker.fr/)
 - [Post de blog sur la culture maker](http://www.magdiblog.fr/divers/culture-maker-et-diy/)
 
+## Conférences accompagnées
+- [De l'épistémologie de la mesure à celle de la donnée, conférence de Bruno Bachimont](https://www.youtube.com/watch?v=XcvIGRc4IvA)
 
 
 ##  Organisation
